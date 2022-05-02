@@ -1,0 +1,5 @@
+# Add API Key after 'api_key:'
+# Example: api_key: 23efd1000l3eh444f34l0000kfe56kec0
+
+VIRUS-TOTAL:
+  api_key: '290c38278dca0c7a9617e1dab359c7daf82b54ef0368110b9f652e5deab0416d'

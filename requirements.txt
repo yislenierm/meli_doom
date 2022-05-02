@@ -1,0 +1,11 @@
+asyncwhois
+colorama
+colored
+coloredlogs
+dnspython
+folium
+geoip2
+ruamel.yaml
+simplejson
+tqdm
+verboselogs
